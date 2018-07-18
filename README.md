@@ -1,5 +1,4 @@
 # Forkify-Web-App
-An application to search through more than 1 million recipes on the internet.
 
 Forkify is a web application that makes use of the Food2Fork Recipe API ( [https://food2fork.com/about/api](https://food2fork.com/about/api)) to allow the user to search through more than one million recipes.
 ***
