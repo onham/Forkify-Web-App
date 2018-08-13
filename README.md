@@ -1,6 +1,7 @@
 # Forkify-Web-App
 
 Forkify is a web application that makes use of the Food2Fork Recipe API ( [https://food2fork.com/about/api](https://food2fork.com/about/api)) to allow the user to search through more than one million recipes.
+Deployed on Heroku : https://blooming-basin-10470.herokuapp.com/
 ***
 
 **Using Forkify**
